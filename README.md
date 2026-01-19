@@ -1,5 +1,5 @@
 # Coding-projects
-You can find my another account at github.com/kcheng55 where showcases a number of coding projects in Java, C++, html & css
+You can find my another account at 'github.com/kcheng55' where showcases a number of coding projects in Java, C++, html & css
 
 Some examples:
 Chutes & Ladder: simulated a multiplayer board game in Java that include using loops, if else statement, 2D arrays, reading from files, binary search, and function calls  
